@@ -1,6 +1,4 @@
 
-#Contributor's Agreement
-
 ## Project Motive
 
 This project is the effort of a voluntary, worldwide community of individuals interested in producing a piece of production-ready software to provice assitance to any differently abled person in controlling an Android device using Morse Code through any means og physical inteaction with said device.
